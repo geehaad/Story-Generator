@@ -30,4 +30,5 @@ Limitations:
 LangChain --> integration with open source(Google search, wikipedia)
 
 SimpleSequentialChain
+
 Memory
