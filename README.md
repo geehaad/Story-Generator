@@ -5,7 +5,7 @@ An Open Source framework that allows AI developers to cnine LLMs like GPT-4
 with external source of computation and data.
 
 LangChain main concepts:
-*  Components
+*  Components:
 1. LLM Wrappers: conncet to large langiage models lke GPT-4,
 2. Prompt Templats: Avoid having haed code text,
 3. Idexes: Extract relavent information retrievel.
