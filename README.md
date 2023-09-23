@@ -18,17 +18,17 @@ Allows LLMs to interact with external APIs.
 
 
 
-APP --> call OpnAI API --> GPT-3.5/GPT-4 
+APP --> call OpnAI API --> GPT-3.5/GPT-4.
 
 
 
 Limitations:
 1. Cost of OpnAI API,
-2. It's Knowledge is Specific to Specific domain
+2. It's Knowledge is Specific to Specific domain.
 3. ChatGPT data is not up-to-date.
 
 LangChain --> integration with open source(Google search, wikipedia)
 
 SimpleSequentialChain <br>
 
-Memory
+Memory.
