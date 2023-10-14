@@ -11,6 +11,11 @@ Explore the Langchain Story Generator, a creative AI project within the LangChai
 ## Prototype Built with Gradio 🚀
 
 The prototype is powered by Gradio, making it super simple to deploy and interact with the Langchain Story Generator. Create a fantastic user interface effortlessly!
+<br>
+<h2>Login Page</h2>
+<img src="login.PNG">
+<h2>Story Generator Page</h2>
+<img src="lang.png">
 
 ## Project Structure 📂
 <code>
@@ -32,8 +37,8 @@ Langchain-Story-Generator
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/geehaad/LLamaIndex-Text-Classification.git
-cd LLamaIndex-Text-Classification
+git clone https://github.com/geehaad/Story-Generator.git
+cd Story-Generator
 ```
 **Download Requirements:** Ensure you have the necessary dependencies by running the following command in your terminal:
    ```bash
